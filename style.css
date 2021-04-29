@@ -1,0 +1,47 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    
+}
+#div1 {
+    width: 1200px;
+}
+h1 {
+    color: white;
+    font-style: normal;
+    font-size: 20px;
+    margin-left: 1000px;
+    font-weight: 80;
+}
+p  {
+    color: white;
+    font-style: italic;
+    font-size: 30px;
+    margin-left: 800px;
+    font-weight: 100;
+}
+img {
+    width: 40%;
+    float: left;
+}
+ #m {
+     width: 60%;
+     float: right;
+     font-size: 20px;
+     margin-right: 30px;
+ }
+ #just6 {
+     height: 350px;
+ }
+ #body2 {
+
+ }
+ h2 {
+     color: black;
+ }
+ video {
+    margin-left: 800px;
+ }
+ 
+
